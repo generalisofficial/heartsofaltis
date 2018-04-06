@@ -1,0 +1,25 @@
+﻿default = {
+	male = {
+		names = { "John" "Bob" "Lucas" "Marcus" "Alexander" "Alex" "Peter" "Jonas" "Jim" "Johannes"}
+		surnames = { }
+		callsigns = { }
+	}
+	#female = {
+	#	names = { "Juliette" "Anna" }
+	#	surnames = { }
+	#	callsigns = { "Queen Of The Sky" "The Red Princess" }
+	#}
+	surnames = { "Smith" "Jones" "Taylor" "Brown" "Williams" "Wilson" "Evans" "Walker" "White" "Roberts" }
+	callsigns = { "Easy Kill" "The Lightning" "The Devil" "Grasshopper" "Handsome" "Moose" "Mouse" "Pebbles" "Sunshine" Demon}
+}
+
+ALS = {
+	male = {
+		names = { Vandus Drelnor Ernthus Feldris Urvemir Vedth Divaosi Ererynis Eraredh Shalfar Nisfar Shalik Turimar Nisil Helil Casik Vilyn Bradyn Gathal Elvas Adelv Lloyvn Garnas Saras Fovus }
+	}
+	female = {
+		names = { Mireuva Tilneri Venaasu Lolethys Hekiah }
+	}
+	surnames = { Hledndus Senothren Gimoran Daldus Tellin Mavabar Valoelo Alasis Baruralo R'aron Sailathil Dagoth Aravel R'on Helben Moabam Verethi Selarys Rindu Uvulas Valaai Dredil Thenim Ginith Dalvilu Velothi }
+	callsigns = { "Bubi" "Assi" "The Black Daedra" "The Dark Rogue Of Dunmer" "Dolfo" "The Great Scrib" "Oran's Destruction" "Chosen of Vivec" "The Cliff Racer" "The Netch Rider" "Champion" "Reeste" }
+}
