@@ -1,0 +1,26 @@
+bookmarks = {
+	bookmark = {
+		name = "GATHERING_STORM_NAME"
+		desc = "GATHERING_STORM_DESC"
+		date = 2035.7.7.12
+		picture = "GFX_select_date_1936"
+		default_country = "NAT"
+		default = yes
+		
+		"NAT"={
+			history = "NAT_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
+		
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

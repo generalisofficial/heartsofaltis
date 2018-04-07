@@ -1,0 +1,38 @@
+﻿capital = 1
+
+oob = "TEP_4171"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+set_convoys = 5
+
+set_politics = {
+
+	parties = {
+		democratic = { 
+			popularity = 100
+		}
+		
+		communism = {
+			popularity = 0
+		    banned = yes
+		}
+		
+		neutrality = { 
+			popularity = 0
+		}
+	}
+	
+	ruling_party = democratic
+	last_election = "2035.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Andrew MacKinnon"
+	picture = "Andrew_MacKinnon.dds"
+	ideology = blufor
+}

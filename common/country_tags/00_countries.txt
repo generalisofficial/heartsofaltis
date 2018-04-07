@@ -1,0 +1,3 @@
+NAT = "countries/North Atlantic Treaty Organization.txt"
+ALS = "countries/Altis and Stratis.txt"
+CST = "countries/Canton-Protocol Strategic Alliance Treaty.txt"
