@@ -1,6 +1,6 @@
 ﻿capital = 1
 
-oob = "NAT_2035"
+oob = "CST_2035"
 
 # Starting tech
 set_technology = {
@@ -12,27 +12,27 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 100
+			popularity = 0
+			banned = yes
 		}
 		
 		communism = {
-			popularity = 0
-		    banned = yes
-		}
+			popularity = 100
+		} 
 		
 		neutrality = { 
 			popularity = 0
 		}
 	}
 	
-	ruling_party = democratic
+	ruling_party = communism
 	last_election = "2035.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Andrew MacKinnon"
-	picture = "Andrew_MacKinnon.dds"
-	ideology = blufor
+	name = "Ostad Javeed Attar"
+	picture = "Ostad_Javeed_Attar.dds"
+	ideology = opfor
 }

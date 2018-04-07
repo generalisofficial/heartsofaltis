@@ -1,0 +1,11 @@
+#reload countrycolors
+
+NAT = {
+	color = rgb { 1 33 105 }
+	color_ui = rgb { 1 33 105 }
+}
+
+CST = {
+	color = rgb { 112 0 0 }
+	color_ui = rgb { 112 0 0 }
+}
