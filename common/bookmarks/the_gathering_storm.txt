@@ -4,8 +4,20 @@ bookmarks = {
 		desc = "GATHERING_STORM_DESC"
 		date = 2035.7.7.12
 		picture = "GFX_select_date_1936"
-		default_country = "NAT"
+		default_country = "FIA"
 		default = yes
+		
+		
+		"FIA"={
+			history = "FIA_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
 		
 		"NAT"={
 			history = "NAT_GATHERING_STORM_DESC"

@@ -1,3 +1,4 @@
 NAT = "countries/NATO.txt"
 ALS = "countries/Altis and Stratis.txt"
-CST = "countries/CSTO.txt"
+CST = "countries/CSAT.txt"
+FIA = "countries/FIA.txt"

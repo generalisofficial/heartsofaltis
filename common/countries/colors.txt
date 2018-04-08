@@ -9,3 +9,8 @@ CST = {
 	color = rgb { 112 0 0 }
 	color_ui = rgb { 112 0 0 }
 }
+
+FIA = {
+	color = rgb { 35 139 142 }
+	color_ui = rgb { 35 139 142 }
+}
