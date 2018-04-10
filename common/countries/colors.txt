@@ -14,3 +14,8 @@ FIA = {
 	color = rgb { 35 139 142 }
 	color_ui = rgb { 35 139 142 }
 }
+
+ALS = {
+	color = rgb { 0 158 73 }
+	color_ui = rgb { 0 158 73 }
+}

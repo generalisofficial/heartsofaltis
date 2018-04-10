@@ -28,3 +28,13 @@
  FIA_democratic_ADJ:0 "FIA"
  FIA_neutrality_ADJ:0 "FIA"
  FIA_communism_ADJ:0 "FIA"
+ 
+ ALS_democratic:0 "Republic of Altis and Stratis"
+ ALS_democratic_DEF:0 "AAF"
+ ALS_neutrality:0 "Republic of Altis and Stratis"
+ ALS_neutrality_DEF:0 "AAF"
+ ALS_communism:0 "Republic of Altis and Stratis"
+ ALS_communism_DEF:0 "AAF"
+ ALS_democratic_ADJ:0 "AAF"
+ ALS_neutrality_ADJ:0 "AAF"
+ ALS_communism_ADJ:0 "AAF"

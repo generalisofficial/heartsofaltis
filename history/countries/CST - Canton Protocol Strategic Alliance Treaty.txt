@@ -2,7 +2,6 @@
 
 oob = "CST_2035"
 
-# Starting tech
 set_technology = {
 	infantry_weapons = 1
 }

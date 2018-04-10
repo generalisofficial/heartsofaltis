@@ -13,13 +13,113 @@
 	callsigns = { "Easy Kill" "The Lightning" "The Devil" "Grasshopper" "Handsome" "Moose" "Mouse" "Pebbles" "Sunshine" Demon}
 }
 
-ALS = {
+NAT = {
 	male = {
-		names = { Vandus Drelnor Ernthus Feldris Urvemir Vedth Divaosi Ererynis Eraredh Shalfar Nisfar Shalik Turimar Nisil Helil Casik Vilyn Bradyn Gathal Elvas Adelv Lloyvn Garnas Saras Fovus }
+		names = { 
+		
+			Adam Alexander William Henry Michael Samuel Joshua George John Matthew Mark Luke Lucas Jeffrey Ulysses 
+			Joseph Charles Russell Benjamin Robert Christopher Richard Chester Lafayette Nathaniel Francis James Donald Cyrus Ambrose
+			Edward Eugene Augustus Norton Abner Isaac Amos Thomas Randolph
+			Robert Jesse James Nathan George Joseph John Patrick Albert Braxton William Ambrose Jubal Richard 
+			Lewis Edmund Leonida Benjamin Wade Daniel Thomas Jonathan Stonewall Lemual Sterling Raphael Kirby Pierre 
+			Jonas Frank Charles Peter Rand Leslie Howard Malvin Oscar Henry Simon Edward Gideon Isaac Evander Jerome Alfred Cadmus
+			Carnot Ezra Wilton Hamilton Matthew Richard Hiram Thomas Elkanah John William James Albert Wilburn Walter Hinchie Samuel Benjamin 
+			Henry Allison Horace Felix Jerome Lawrence Alexander Louis Steven Zach
+		
+		  }
 	}
 	female = {
-		names = { Mireuva Tilneri Venaasu Lolethys Hekiah }
+		names = { Mary Jane }
 	}
-	surnames = { Hledndus Senothren Gimoran Daldus Tellin Mavabar Valoelo Alasis Baruralo R'aron Sailathil Dagoth Aravel R'on Helben Moabam Verethi Selarys Rindu Uvulas Valaai Dredil Thenim Ginith Dalvilu Velothi }
-	callsigns = { "Bubi" "Assi" "The Black Daedra" "The Dark Rogue Of Dunmer" "Dolfo" "The Great Scrib" "Oran's Destruction" "Chosen of Vivec" "The Cliff Racer" "The Netch Rider" "Champion" "Reeste" }
+	surnames = { 
+		Smith Washington Grant Sherman Chamberlain Powell Clemens Abbott Abercrombie Allen Ames Anderson Barkhauer Andrews Appleton
+		Armstrong Arthur Atkins Asboth Babcock Baker Pope Banks Barnard Barnes Barnum Barry Barstow Bartlett Bates 
+		Baxter Beatty Belknap Benton Blair Blunt Bradley Brown Buell Buford Burnside Butler Caldwell Campbell Carr
+		Chapman Chipman Clayton Coburn Connor Conrad Cook Cooper Crittenden Custer Davies Davis Doubleday Ewing Farnsworth 
+		Ford Forsyth Foster Franklin Fry Gilbert Gregg Griffin Halleck Hamlin Hancock Harrison Hatch Hayes Heintzelman
+		Hooker Howard Hunter Jackson Johnson Jones Keyes Kimball Lyon McArthur McClellan McCook McDowell Meade Mitchell
+		Morgan Paine Phelps Porter Potter Reynolds Rice Rhodes Robinson Rosencrans Saloman Schenck Schofield Scott Sedgwick
+		Seward Sheridan Sickles Sprague Stevens Stevenson Stone Sullivan Taylor Tyler Wade Wadsworth Wallace Ward Warner
+		Wilson Wright Young Lee Jackson Johnson Beauregard Stuart Longstreet Forrest Pickett Mosby Cleburne Hood Breckenridge Bragg 
+		Barksdale Early Hill Ewell Morgan Armistead Semmes Smith Hampton Polk Cheatham Wheeler Pemberton Gordon Hardee Floyd Price 
+		Wise "Van Dorn" Loring Buckner Taylor Williams French Gibbs Hindman Anderson Sibley Garnett Magruder Pillow McLaws Rodes Heth 
+		Pender Trimble Kershaw Wofford Kemper Law Robertson Benning Hays Walker Iverson Wilcox Mahone Wright Pettigrew Archer 
+		Davis Lane Posey Scales Warner Imboden Jenkins Bee Ector Gano Granbury Green Greer Gregg Hardeman Harrison Hood Johnston King Lane Mabry Maxey McCulloch Moore 
+		Nelson Randal Robertson Ross Rosser Scurry Steele Terrell Waterhouse Waul Wharton Whitfield Wigfall Young Bowie Travis Houston
+		Wells Holmgren
+
+	}
+	callsigns = { "Goose" "Iceman" "Maverick" "Apollo" "Animal" "Boom-Boom" "Badger" "Brick" "Cajun" "Challenger" "Chip" "Eagle" "Ghost" "Hawk" "Jaws" "Moses" "Mad Dog"}
+}
+
+ALS = {
+	male = {
+		names = { 
+			Adamantios Alexandros Anastasios Andreas Antonios Aristidis Athanasios Augustinos Benizelos Charalambos
+			Charilaos Dimitrios Diomidis Eleftherios Emmanouil Epameinontas Evripidis Gennaios Georgios Ilias
+			Ionnis Kitsos Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
+			Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
+			Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
+		  }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Altanis Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
+		Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
+		Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
+		Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas 
+		Trikoupis Tsakalotos Tsolakoglou  Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
+	 }
+	callsigns = { }
+}
+
+FIA = {
+	male = {
+		names = { 
+			Adamantios Alexandros Anastasios Andreas Antonios Aristidis Athanasios Augustinos Benizelos Charalambos
+			Charilaos Dimitrios Diomidis Eleftherios Emmanouil Epameinontas Evripidis Gennaios Georgios Ilias
+			Ionnis Kitsos Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
+			Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
+			Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
+		  }
+	}
+	female = {
+		names = { }
+	}
+	surnames = {
+		Altanis Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
+		Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
+		Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
+		Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas 
+		Trikoupis Tsakalotos Tsolakoglou  Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
+	 }
+	callsigns = { }
+}
+
+CST = {
+	male = {
+		names = { Aziz Shams Abbas Abolghasem Abdolhossein Abdolsamad Abdolazim Ahmad Ali Bahram
+			Fazlollah Hamzeh Hasan Karim Mahmoud  Mohammad Murad Muhsin  Nosret Reza  
+			Afshin  Ardashir Aria Arshad Arman Armand Ammar Amir Arash Arvin Atash
+			Bijan Babak Bardia Basir Dalir Dariush Derafsh Ebrahim Ervin Ehsan Esmail Izad
+			Farhad Farbod Farrokh Farshid Hamid Hassan Hossein Hormuzd Jamshid Kamran Kasra Khashayar 
+			Kourosh Khosrow Mazdak Mazdan Maziar Mehran Manuchehr Massoud Mehrdad Marzban Mehdi Milad Mir 
+			Omid Papak Parsa Parviz Payam Pedram Piruz Pouria Ramin Rexa Rostam Sadegh Sassan Sepehr 
+			Shahin Shapour Shahryar Shervin Sohrab Soroush Turan Vahid Vandad Yousef Zand Zartosh Zurvan
+		}
+	}
+	female = {
+		names = { Mehrnaz Farnaz }
+	}
+	surnames = {
+		Faghihinejad Jorjani Airom Ansari Ayrum Buzarjomehri Davallu Farhani Jahanbani Kashani 
+		Khuzai Meshhedi Nakhchevani Pesyan Rokni Shafaei Shahbakhti Tahmasebi Abed Ahura 
+		Ebrahimi Esfahani Esfandiari Farrokhzad Farahmand Ghorbani Ghademi Homayoun Hooshang
+		Jahandar jahangir Jahanshah Jamshidi Kavoosi Khadem Khiabni Khorasani Khorram-din Lajani Madani
+		Mazdaki Mazdani Mehregan Mazandarani Mokri Mohsen Paria Parsi Pouran Rahbar Rajavi Rezaei Rostamian 
+		Sassani Shamshiri Shir-Del Shirazi Tehrani Turani Tabrizi Zahedi
+	}
+	callsigns = { }
 }
