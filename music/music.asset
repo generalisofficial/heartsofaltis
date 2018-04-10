@@ -1,0 +1,89 @@
+
+# MAIN THEME
+music = {
+	name = "maintheme"
+	file = "maintheme.ogg"
+	volume = 0.65
+}
+
+# General Peace:
+music = {
+	name = "Conquistador"
+	file = "generic/Conquistador.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Tactics"
+	file = "generic/Tactics.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Combined Arms"
+	file = "generic/Combined Arms.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "An Unknown Enemy"
+	file = "generic/An Unknown Enemy.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "This is War (Laws of War DLC remix)"
+	file = "generic/This is War (Laws of War DLC remix).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Taking Kavala"
+	file = "generic/Taking Kavala.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Lightning"
+	file = "generic/Lightning.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Exit Strategy"
+	file = "generic/Exit Strategy.ogg"
+	volume = 0.65
+}
+
+
+#War
+music = {
+	name = "Actions have consequences (Laws of War DLC)"
+	file = "generic/Actions have consequences (Laws of War DLC).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Proteus"
+	file = "generic/Proteus.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Win"
+	file = "generic/Win.ogg"
+	volume = 0.95
+}
+
+#CSAT
+
+music = {
+	name = "Eternal Iran"
+	file = "CSAT/Eternal Iran.ogg"
+	volume = 0.65
+}
+
+#AAF
+
+music = {
+	name = "Song of the AAF Feres Battalion"
+	file = "AAF/Song of the AAF Feres Battalion.ogg"
+	volume = 0.65
+}
+

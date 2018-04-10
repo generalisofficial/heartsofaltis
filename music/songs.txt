@@ -1,0 +1,163 @@
+
+music = {
+	song = "maintheme"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+#GENERIC
+music = {
+	song = "Conquistador"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Tactics"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Combined Arms"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}
+}
+
+music = {
+	song = "An Unknown Enemy"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "This is War (Laws of War DLC remix)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+		}		
+	}	
+}
+
+music = {
+	song = "Taking Kavala"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}	
+}
+
+music = {
+	song = "Lightning"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}	
+}
+
+music = {
+	song = "Exit Strategy"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}	
+}
+
+#WAR
+
+music = {
+	song = "Win"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Actions have consequences (Laws of War DLC)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Proteus"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+		}		
+	}	
+}
+
+#CSAT
+
+music = {
+	song = "Eternal Iran"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_government = communism
+		}		
+	}	
+}
+
+#AAF
+
+music = {
+	song = "Song of the AAF Feres Battalion"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_government = democratic
+		}		
+	}	
+}
+
