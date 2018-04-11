@@ -35,3 +35,9 @@ create_country_leader = {
 	picture = "Andrew_MacKinnon.dds"
 	ideology = blufor
 }
+
+create_field_marshal = {
+	name = "David Armstrong"
+	picture = "David_Armstrong.dds"
+	skill = 3
+}

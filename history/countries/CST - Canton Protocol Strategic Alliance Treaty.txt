@@ -35,3 +35,15 @@ create_country_leader = {
 	picture = "Ostad_Javeed_Attar.dds"
 	ideology = opfor
 }
+
+create_field_marshal = {
+	name = "Vahid Namdar"
+	picture = "Vahid_Namdar.dds"
+	skill = 3
+}
+
+create_field_marshal = {
+	name = "Huang Zhou"
+	picture = "Huang_Zhou.dds"
+	skill = 3
+}
