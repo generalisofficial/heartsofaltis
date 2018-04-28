@@ -377,6 +377,21 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_ideology_CST_neutrality_group"
+		texturefile = "gfx/interface/ideologies/CSAT.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_CST_communism_group"
+		texturefile = "gfx/interface/ideologies/CSAT.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_CST_democratic_group"
+		texturefile = "gfx/interface/ideologies/CSAT.dds"
+	}
+	
+	spriteType = {
 		name = "GFX_ideology_unknown"
 		texturefile = "gfx/interface/ideologies/unknown.dds"
 		legacy_lazy_load = no
