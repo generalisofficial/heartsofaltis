@@ -18,6 +18,17 @@ bookmarks = {
 
 			}
 		}
+	
+		"ALS"={
+			history = "ALS_GATHERING_STORM_DESC"
+			ideology = communism
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
 		
 		"NAT"={
 			history = "NAT_GATHERING_STORM_DESC"
