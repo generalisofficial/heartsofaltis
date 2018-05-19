@@ -19,3 +19,8 @@ ALS = {
 	color = rgb { 0 158 73 }
 	color_ui = rgb { 0 158 73 }
 }
+
+HRZ = {
+	color = rgb { 25 78 156 }
+	color_ui = rgb { 25 78 156 }
+}

@@ -1,0 +1,37 @@
+bookmarks = {
+	bookmark = {
+		name = "APEX_PROTOCOL_NAME"
+		desc = "APEX_PROTOCOL_DESC"
+		date = 2035.8.11.12
+		picture = "GFX_select_date_1939"
+		default_country = "NAT"
+		default = yes
+		
+		"NAT"={
+			history = "NAT_DESC"
+			ideology = democratic
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
+		
+		"CST"={
+			history = "CST_DESC"
+			ideology = communism
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
+		
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

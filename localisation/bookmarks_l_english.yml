@@ -1,9 +1,11 @@
 ﻿l_english:
  BM_HISTORY_TITLE:0 "Brief History"
- GATHERING_STORM_NAME:0 "The East Wind"
- GATHERING_STORM_DESC:0 "Tensions rise as NATO peacekeeping forces begin to leave The Republic of Altis: a strategic fault-line between crumbling European influence and a powerful, resurgent East."
- NAT_GATHERING_STORM_DESC:0 "The North Atlantic Treaty Organization is an intergovernmental military alliance based on the North Atlantic Treaty which was signed on 4 April 1949."
- CST_GATHERING_STORM_DESC:0 "The Canton Protocol Strategic Alliance Treaty is a military and economical alliance formed by eastern countries from East Asia, Middle East and North Africa, acting as a counterparent to NATO, as years of economical recession lead to the political and economical rise of CSAT."
- FIA_GATHERING_STORM_DESC:0 "Believed to be chiefly composed of former and defected members of the Altis Armed Forces, disparate fragments of opposition to the 2026 Kavala coup d'etat joined together in the grind of bloody civil war."
- ALS_GATHERING_STORM_DESC:0 "In the wake of civil war, the Jerusalem Cease Fire of 2030 mandated the creation of an armed defence force to secure the sovereign territory of The Republic of Altis and Stratis."
+ EAST_WIND_NAME:0 "The East Wind"
+ EAST_WIND_DESC:0 "Tensions rise as NATO peacekeeping forces begin to leave The Republic of Altis: a strategic fault-line between crumbling European influence and a powerful, resurgent East."
+ APEX_PROTOCOL_NAME:0 "Apex Protocol"
+ APEX_PROTOCOL_DESC:0 "The South Pacific island nation of Tanoa suffers a major disaster when a tsunami devastates the islands, displacing thousands in the process. As a local criminal organisation known as the Syndikat begins runs rampant and expands its control over vast regions of Tanoa. One of Syndikat's key leaders is a former member of the "Red Tiger" group named Solomon Maru, code named "Warlock", who attempted to topple a North African government through a coup almost a decade ago."
+ NAT_DESC:0 "The North Atlantic Treaty Organization is an intergovernmental military alliance based on the North Atlantic Treaty which was signed on 4 April 1949."
+ CST_DESC:0 "The Canton Protocol Strategic Alliance Treaty is a military and economical alliance formed by eastern countries from East Asia, Middle East and North Africa, acting as a counterparent to NATO, as years of economical recession lead to the political and economical rise of CSAT."
+ FIA_DESC:0 "Believed to be chiefly composed of former and defected members of the Altis Armed Forces, disparate fragments of opposition to the 2026 Kavala coup d'etat joined together in the grind of bloody civil war."
+ ALS_DESC:0 "In the wake of civil war, the Jerusalem Cease Fire of 2030 mandated the creation of an armed defence force to secure the sovereign territory of The Republic of Altis and Stratis."
  

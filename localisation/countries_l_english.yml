@@ -38,3 +38,13 @@
  ALS_democratic_ADJ:0 "AAF"
  ALS_neutrality_ADJ:0 "AAF"
  ALS_communism_ADJ:0 "AAF"
+ 
+ HRZ_democratic:0 "Horizon Islands"
+ HRZ_democratic_DEF:0 "The Horizon Islands"
+ HRZ_neutrality:0 "Horizon Islands"
+ HRZ_neutrality_DEF:0 "The Horizon Islands"
+ HRZ_communism:0 "Horizon Islands"
+ HRZ_communism_DEF:0 "The Horizon Islands"
+ HRZ_democratic_ADJ:0 "Horizon Islander"
+ HRZ_neutrality_ADJ:0 "Horizon Islander"
+ HRZ_communism_ADJ:0 "Horizon Islander"

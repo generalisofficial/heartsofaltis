@@ -9,7 +9,7 @@ bookmarks = {
 		
 		
 		"FIA"={
-			history = "FIA_GATHERING_STORM_DESC"
+			history = "FIA_DESC"
 			ideology = democratic
 			ideas = {
 
@@ -20,7 +20,7 @@ bookmarks = {
 		}
 	
 		"ALS"={
-			history = "ALS_GATHERING_STORM_DESC"
+			history = "ALS_DESC"
 			ideology = communism
 			ideas = {
 
@@ -31,7 +31,7 @@ bookmarks = {
 		}
 		
 		"NAT"={
-			history = "NAT_GATHERING_STORM_DESC"
+			history = "NAT_DESC"
 			ideology = democratic
 			ideas = {
 
@@ -42,7 +42,7 @@ bookmarks = {
 		}
 		
 		"CST"={
-			history = "CST_GATHERING_STORM_DESC"
+			history = "CST_DESC"
 			ideology = communism
 			ideas = {
 
