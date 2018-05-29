@@ -1,5 +1,5 @@
 NAT = "countries/NATO.txt"
-ALS = "countries/Altis and Stratis.txt"
+AAF = "countries/AAF.txt"
 CST = "countries/CSAT.txt"
 FIA = "countries/FIA.txt"
 HRZ = "countries/Horizon Islands.txt"

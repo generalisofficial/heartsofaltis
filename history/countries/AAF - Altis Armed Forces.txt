@@ -1,6 +1,6 @@
-﻿capital = 1
+﻿capital = 10
 
-oob = "ALS_2035"
+oob = "AAF_2035"
 
 set_technology = {
 	infantry_weapons = 1

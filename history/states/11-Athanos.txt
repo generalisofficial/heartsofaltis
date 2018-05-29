@@ -1,0 +1,16 @@
+state={
+	id=11
+	name="STATE_11"
+	history={
+		owner = FIA
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = FIA
+	}
+	provinces={
+		736 740 741 930 931 932 933 1175 1176 1459 1460 1569 1570 1731 1732 1808 1960 2295 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

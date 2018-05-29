@@ -1,7 +1,7 @@
 bookmarks = {
 	bookmark = {
-		name = "GATHERING_STORM_NAME"
-		desc = "GATHERING_STORM_DESC"
+		name = "EAST_WIND_NAME"
+		desc = "EAST_WIND_DESC"
 		date = 2035.7.7.12
 		picture = "GFX_select_date_1936"
 		default_country = "FIA"
@@ -19,8 +19,8 @@ bookmarks = {
 			}
 		}
 	
-		"ALS"={
-			history = "ALS_DESC"
+		"AAF"={
+			history = "AAF_DESC"
 			ideology = communism
 			ideas = {
 

@@ -1,0 +1,71 @@
+﻿
+
+
+add_namespace = nuke_dropped
+
+
+news_event = {
+	id = nuke_dropped.1
+	title = nuke_dropped.1.t
+	desc = nuke_dropped.1.d
+	picture = GFX_news_event_nuke
+
+	major = yes
+
+	is_triggered_only = yes
+
+	trigger = {
+		NOT = {
+			FROM = {
+				state = 529
+			}
+			FROM = {
+				state = 528
+			}
+			FROM = {
+				state = 64
+			}
+			FROM = {
+				state = 126
+			}
+			FROM = {
+				state = 531
+			}
+			FROM = {
+				state = 282
+			}
+			FROM = {
+				state = 361
+			}
+			FROM = {
+				state = 2
+			}
+			FROM = {
+				state = 16 
+			}
+			FROM = {
+				state = 219
+			}
+			FROM = {
+				state = 37
+			}
+			FROM = {
+				state = 141
+			}
+		}
+	}
+
+	option = {
+		name = nuke_dropped.1.a
+		trigger = {
+			NOT = { FROM = { FROM = { is_owned_by = ROOT } } }
+		}
+	}
+	
+	option = {
+		name = nuke_dropped.1.b
+		trigger = {
+			FROM = { FROM = { is_owned_by = ROOT } }
+		}
+	}
+}

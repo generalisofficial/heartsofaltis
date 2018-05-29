@@ -1,0 +1,16 @@
+state={
+	id=5
+	name="STATE_5"
+	history={
+		owner = NAT
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = NAT
+	}
+	provinces={
+		157 158 159 160 161 162 163 541 542 546 1099 1566 1599 1783 2065 2066 2127 2135 2231 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

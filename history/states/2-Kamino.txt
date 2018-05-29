@@ -1,0 +1,17 @@
+state={
+	id=2
+	name="STATE_2"
+	history={
+		owner = NAT
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = NAT
+	}
+	provinces={
+		524 939 940 1234 1330 1470 1471 1750 1812 1816 1928 2055 2291 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
