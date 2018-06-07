@@ -1,6 +1,14 @@
 state={
 	id=56
 	name="STATE_56"
+	history={
+		owner = NAT
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = NAT
+	}
 	provinces={
 		170 171 172 492 493 495 496 497 498 499 500 501 502 503 506 509 837 838 839 840 926 927 928 1161 1162 1163 1660 1897 1987 2045 2069 2289 2300 
 	}

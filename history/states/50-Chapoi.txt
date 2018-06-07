@@ -1,6 +1,14 @@
 state={
 	id=50
 	name="STATE_50"
+	history={
+		owner = CST
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = CST
+	}
 	provinces={
 		30 31 32 33 34 35 36 37 354 849 850 851 852 1081 1082 1242 1269 1298 1299 1300 1301 1475 1476 1552 1553 1720 1959 2040 2194 
 	}

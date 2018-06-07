@@ -1,6 +1,14 @@
 state={
 	id=34
 	name="STATE_34"
+	history={
+		owner = AAF
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = AAF
+	}
 	provinces={
 		599 600 601 602 1052 1053 1196 1197 1198 1201 1202 1573 1644 1719 
 	}

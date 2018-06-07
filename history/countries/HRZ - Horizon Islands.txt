@@ -11,7 +11,7 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 0
+			popularity = 100
 		}
 		
 		communism = {
@@ -19,7 +19,7 @@ set_politics = {
 		}
 		
 		neutrality = { 
-			popularity = 100
+			popularity = 0
 		}
 	}
 	

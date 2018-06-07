@@ -1,6 +1,14 @@
 state={
 	id=54
 	name="STATE_54"
+	history={
+		owner = CST
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = CST
+	}
 	provinces={
 		191 192 193 194 195 196 440 441 442 443 444 446 448 449 450 451 461 491 494 507 508 713 1114 1115 1131 1132 1133 1617 1618 1864 1865 1892 1893 1926 2068 2101 
 	}
