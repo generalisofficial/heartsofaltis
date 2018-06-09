@@ -4,8 +4,19 @@ bookmarks = {
 		desc = "APEX_PROTOCOL_DESC"
 		date = 2035.8.11.12
 		picture = "GFX_select_date_1939"
-		default_country = "NAT"
+		default_country = "HRZ"
 		default = yes
+		
+		"HRZ"={
+			history = "HRZ_DESC"
+			ideology = democratic
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
 		
 		"NAT"={
 			history = "NAT_DESC"
