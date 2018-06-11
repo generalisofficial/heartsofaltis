@@ -56,7 +56,7 @@ music = {
 }
 
 music = {
-	song = "This is War (Laws of War DLC remix)"
+	song = "This is War"
 	
 	chance = {
 		modifier = {
@@ -111,7 +111,7 @@ music = {
 }
 
 music = {
-	song = "Actions have consequences (Laws of War DLC)"
+	song = "Actions have consequences"
 	
 	chance = {
 		modifier = {
@@ -142,7 +142,7 @@ music = {
 		modifier = {
 			factor = 1
 
-			has_government = communism
+			original_tag = CST
 		}		
 	}	
 }
@@ -156,7 +156,7 @@ music = {
 		modifier = {
 			factor = 2
 
-			has_government = democratic
+			original_tag = AAF
 		}		
 	}	
 }
