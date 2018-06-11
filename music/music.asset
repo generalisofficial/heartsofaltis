@@ -30,8 +30,8 @@ music = {
 }
 
 music = {
-	name = "This is War (Laws of War DLC remix)"
-	file = "generic/This is War (Laws of War DLC remix).ogg"
+	name = "This is War"
+	file = "generic/This is War.ogg"
 	volume = 0.65
 }
 music = {
@@ -55,8 +55,8 @@ music = {
 
 #War
 music = {
-	name = "Actions have consequences (Laws of War DLC)"
-	file = "generic/Actions have consequences (Laws of War DLC).ogg"
+	name = "Actions have consequences"
+	file = "generic/Actions have consequences.ogg"
 	volume = 0.65
 }
 music = {
