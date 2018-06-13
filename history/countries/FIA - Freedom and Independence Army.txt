@@ -34,3 +34,11 @@ create_country_leader = {
 	picture = "Kostas_Stavrou.dds"
 	ideology = blufor
 }
+
+2035.8.11 = {
+    create_country_leader = {
+	    name = "Nikos Panagopoulos"
+	    picture = "Nikos_Panagopoulos.dds"
+	    ideology = blufor
+    }
+}

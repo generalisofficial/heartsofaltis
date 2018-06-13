@@ -48,3 +48,13 @@
  HRZ_democratic_ADJ:0 "Horizon Islander"
  HRZ_neutrality_ADJ:0 "Horizon Islander"
  HRZ_communism_ADJ:0 "Horizon Islander"
+ 
+ SDK_democratic:0 "Syndikat"
+ SDK_democratic_DEF:0 "The Syndikat"
+ SDK_neutrality:0 "Syndikat"
+ SDK_neutrality_DEF:0 "The Syndikat"
+ SDK_communism:0 "Syndikat"
+ SDK_communism_DEF:0 "The Syndikat"
+ SDK_democratic_ADJ:0 "Syndikat"
+ SDK_neutrality_ADJ:0 "Syndikat"
+ SDK_communism_ADJ:0 "Syndikat"
